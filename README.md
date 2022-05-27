@@ -6,6 +6,7 @@
 . PM2
 . NGINX
 . Visual Studio Code
+. Docker
 
 # Steps needed to repeat deployment process
 This app was deployed in AWS. This project focusses on setting up the app server on AWS EC2, then deploying and configuring the front-end and back-end pieces to work together.
